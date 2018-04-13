@@ -1,2 +1,7 @@
 Hello, World!
+<<<<<<< HEAD
 Greetings mortals!
+=======
+This is an update.
+Greetings mortals!
+>>>>>>> origin/master
